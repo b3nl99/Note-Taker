@@ -37,16 +37,11 @@ Notes Page
 ## Deployed Link 
 https://note-taker-project.herokuapp.com/
 
-## Built With
-*[JavaScript]
-*[NodeJS]
-*[Express]
-
 ## Authors
 Ben Lee
 
 ## Contacts
 * Email: blee0963@gmail.com
-* [GitHub] (https://github.com/b3nl99)
+* GitHub: https://github.com/b3nl99
 
 
